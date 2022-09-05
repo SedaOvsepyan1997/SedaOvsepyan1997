@@ -17,6 +17,6 @@
 
 
 ### Follow Me
-![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=TELEGRAM&logoColor=BLUE)(https://t.me/seda_rubovs)
-![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=VKONTAKTE&logoColor=GREEN)(https://vk.com/seda_rubovs)
-![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-black?style=for-the-badge&logo=INSTAGRAM&logoColor=RED)(https://instagram.com/seda_rubovs)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=TELEGRAM&logoColor=BLUE)](https://t.me/seda_rubovs)
+[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=VKONTAKTE&logoColor=GREEN)](https://vk.com/seda_rubovs)
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-black?style=for-the-badge&logo=INSTAGRAM&logoColor=RED)](https://instagram.com/seda_rubovs)
