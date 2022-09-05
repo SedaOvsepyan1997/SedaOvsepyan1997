@@ -12,5 +12,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=Red)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-black?style=for-the-badge&logo=DEVTOOLS&logoColor=green)
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-black?style=for-the-badge&logo=AzureDevOps&logoColor=blue)
-
+![Mindmap](https://img.shields.io/badge/-Mindmap-black?style=for-the-badge&logo=Mindmap&logoColor=red)
+![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-black?style=for-the-badge&logo=CharlesProxy&logoColor=yellow)
 Follow Me
