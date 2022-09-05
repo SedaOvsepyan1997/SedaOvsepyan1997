@@ -14,4 +14,9 @@
 ![AzureDevOps](https://img.shields.io/badge/-AzureDevOps-black?style=for-the-badge&logo=AzureDevOps&logoColor=blue)
 ![Mindmap](https://img.shields.io/badge/-Mindmap-black?style=for-the-badge&logo=Mindmap&logoColor=red)
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-black?style=for-the-badge&logo=CharlesProxy&logoColor=yellow)
-Follow Me
+
+
+### Follow Me
+![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=TELEGRAM&logoColor=BLUE)(https://t.me/seda_rubovs)
+![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-black?style=for-the-badge&logo=VKONTAKTE&logoColor=GREEN)(https://vk.com/seda_rubovs)
+![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-black?style=for-the-badge&logo=INSTAGRAM&logoColor=RED)(https://instagram.com/seda_rubovs)
